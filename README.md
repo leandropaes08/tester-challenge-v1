@@ -25,7 +25,7 @@ https://www.skyscanner.com.br/
 
 Requisitos obrigatórios e diferenciais Utilização de Cypress Utilização de Código Estruturado
 
-Instruções de entrega: Faça um clone do projeto no seu repositóri GIT (não faça FORK).Inclua um arquivo chamado COMMENTS.md com a explicação rápida da decisão arquitetura de testes utilizada e o motivo. O que você melhoraria se tivesse mais tempo. Quais requisitos obrigatórios e desejáveis não foram entregues e o motivo. 
+Instruções de entrega: Faça um clone do projeto no seu repositório Github (não faça FORK).Inclua um arquivo chamado COMMENTS.md com a explicação rápida da decisão arquitetura de testes utilizada e o motivo. O que você melhoraria se tivesse mais tempo. Quais requisitos obrigatórios e desejáveis não foram entregues e o motivo. 
 
 Envie um email para leandro.souza@fit-tecnologia.org.br com copia para a recrutadora com o link do teste.
 
