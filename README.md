@@ -27,7 +27,7 @@ Requisitos obrigatórios e diferenciais Utilização de Cypress Utilização de 
 
 Instruções de entrega: Faça um clone do projeto no seu repositóri GIT (não faça FORK).Inclua um arquivo chamado COMMENTS.md com a explicação rápida da decisão arquitetura de testes utilizada e o motivo. O que você melhoraria se tivesse mais tempo. Quais requisitos obrigatórios e desejáveis não foram entregues e o motivo. 
 
-Envie um email para leandro.souza@fit-tecnologia.com com copia para a recrutadora com o link do teste.
+Envie um email para leandro.souza@fit-tecnologia.org.br com copia para a recrutadora com o link do teste.
 
 Prazo de Entrega - 20/09/2024 as 17hrs da tarde.
 
